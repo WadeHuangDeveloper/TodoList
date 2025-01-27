@@ -16,6 +16,7 @@
 		F61AFFDD2D47AF18005E144D /* UserRegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F61AFFDC2D47AF18005E144D /* UserRegisterViewController.swift */; };
 		F61AFFDF2D47AF2A005E144D /* UserSignInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F61AFFDE2D47AF2A005E144D /* UserSignInViewController.swift */; };
 		F61AFFE12D47AF36005E144D /* UserSignOutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F61AFFE02D47AF36005E144D /* UserSignOutViewController.swift */; };
+		F61AFFE32D47B3BB005E144D /* UserInformationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F61AFFE22D47B3BB005E144D /* UserInformationViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		F61AFFDC2D47AF18005E144D /* UserRegisterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserRegisterViewController.swift; sourceTree = "<group>"; };
 		F61AFFDE2D47AF2A005E144D /* UserSignInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserSignInViewController.swift; sourceTree = "<group>"; };
 		F61AFFE02D47AF36005E144D /* UserSignOutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserSignOutViewController.swift; sourceTree = "<group>"; };
+		F61AFFE22D47B3BB005E144D /* UserInformationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserInformationViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				F61AFFDC2D47AF18005E144D /* UserRegisterViewController.swift */,
 				F61AFFDE2D47AF2A005E144D /* UserSignInViewController.swift */,
 				F61AFFE02D47AF36005E144D /* UserSignOutViewController.swift */,
+				F61AFFE22D47B3BB005E144D /* UserInformationViewController.swift */,
 			);
 			path = TodoList;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F61AFFDD2D47AF18005E144D /* UserRegisterViewController.swift in Sources */,
+				F61AFFE32D47B3BB005E144D /* UserInformationViewController.swift in Sources */,
 				F61AFFDF2D47AF2A005E144D /* UserSignInViewController.swift in Sources */,
 				F61AFFD52D478383005E144D /* AppDelegate.swift in Sources */,
 				F61AFFE12D47AF36005E144D /* UserSignOutViewController.swift in Sources */,
