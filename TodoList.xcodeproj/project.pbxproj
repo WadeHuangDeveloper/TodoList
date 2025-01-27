@@ -13,6 +13,9 @@
 		F61AFFD52D478383005E144D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F61AFFC72D478383005E144D /* AppDelegate.swift */; };
 		F61AFFD62D478383005E144D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F61AFFCE2D478383005E144D /* SceneDelegate.swift */; };
 		F61AFFD72D478383005E144D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F61AFFCF2D478383005E144D /* ViewController.swift */; };
+		F61AFFDD2D47AF18005E144D /* UserRegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F61AFFDC2D47AF18005E144D /* UserRegisterViewController.swift */; };
+		F61AFFDF2D47AF2A005E144D /* UserSignInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F61AFFDE2D47AF2A005E144D /* UserSignInViewController.swift */; };
+		F61AFFE12D47AF36005E144D /* UserSignOutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F61AFFE02D47AF36005E144D /* UserSignOutViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		F61AFFCC2D478383005E144D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		F61AFFCE2D478383005E144D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		F61AFFCF2D478383005E144D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		F61AFFDC2D47AF18005E144D /* UserRegisterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserRegisterViewController.swift; sourceTree = "<group>"; };
+		F61AFFDE2D47AF2A005E144D /* UserSignInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserSignInViewController.swift; sourceTree = "<group>"; };
+		F61AFFE02D47AF36005E144D /* UserSignOutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserSignOutViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +69,9 @@
 				F61AFFCD2D478383005E144D /* Main.storyboard */,
 				F61AFFCE2D478383005E144D /* SceneDelegate.swift */,
 				F61AFFCF2D478383005E144D /* ViewController.swift */,
+				F61AFFDC2D47AF18005E144D /* UserRegisterViewController.swift */,
+				F61AFFDE2D47AF2A005E144D /* UserSignInViewController.swift */,
+				F61AFFE02D47AF36005E144D /* UserSignOutViewController.swift */,
 			);
 			path = TodoList;
 			sourceTree = "<group>";
@@ -141,7 +150,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F61AFFDD2D47AF18005E144D /* UserRegisterViewController.swift in Sources */,
+				F61AFFDF2D47AF2A005E144D /* UserSignInViewController.swift in Sources */,
 				F61AFFD52D478383005E144D /* AppDelegate.swift in Sources */,
+				F61AFFE12D47AF36005E144D /* UserSignOutViewController.swift in Sources */,
 				F61AFFD62D478383005E144D /* SceneDelegate.swift in Sources */,
 				F61AFFD72D478383005E144D /* ViewController.swift in Sources */,
 			);
