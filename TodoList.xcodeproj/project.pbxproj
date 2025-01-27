@@ -17,6 +17,7 @@
 		F61AFFDF2D47AF2A005E144D /* UserSignInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F61AFFDE2D47AF2A005E144D /* UserSignInViewController.swift */; };
 		F61AFFE12D47AF36005E144D /* UserSignOutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F61AFFE02D47AF36005E144D /* UserSignOutViewController.swift */; };
 		F61AFFE32D47B3BB005E144D /* UserInformationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F61AFFE22D47B3BB005E144D /* UserInformationViewController.swift */; };
+		F61AFFE52D47B40B005E144D /* UserVerifyCodeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F61AFFE42D47B40B005E144D /* UserVerifyCodeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		F61AFFDE2D47AF2A005E144D /* UserSignInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserSignInViewController.swift; sourceTree = "<group>"; };
 		F61AFFE02D47AF36005E144D /* UserSignOutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserSignOutViewController.swift; sourceTree = "<group>"; };
 		F61AFFE22D47B3BB005E144D /* UserInformationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserInformationViewController.swift; sourceTree = "<group>"; };
+		F61AFFE42D47B40B005E144D /* UserVerifyCodeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserVerifyCodeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 				F61AFFDE2D47AF2A005E144D /* UserSignInViewController.swift */,
 				F61AFFE02D47AF36005E144D /* UserSignOutViewController.swift */,
 				F61AFFE22D47B3BB005E144D /* UserInformationViewController.swift */,
+				F61AFFE42D47B40B005E144D /* UserVerifyCodeViewController.swift */,
 			);
 			path = TodoList;
 			sourceTree = "<group>";
@@ -160,6 +163,7 @@
 				F61AFFE12D47AF36005E144D /* UserSignOutViewController.swift in Sources */,
 				F61AFFD62D478383005E144D /* SceneDelegate.swift in Sources */,
 				F61AFFD72D478383005E144D /* ViewController.swift in Sources */,
+				F61AFFE52D47B40B005E144D /* UserVerifyCodeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
