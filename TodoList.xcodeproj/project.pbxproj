@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F61A00012D489021005E144D /* GroupManageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F61A00002D489021005E144D /* GroupManageViewController.swift */; };
 		F61AFFD12D478383005E144D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F61AFFC82D478383005E144D /* Assets.xcassets */; };
 		F61AFFD32D478383005E144D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F61AFFCB2D478383005E144D /* LaunchScreen.storyboard */; };
 		F61AFFD42D478383005E144D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F61AFFCD2D478383005E144D /* Main.storyboard */; };
@@ -26,6 +27,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F61A00002D489021005E144D /* GroupManageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupManageViewController.swift; sourceTree = "<group>"; };
 		F61AFF9F2D478154005E144D /* TodoList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TodoList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F61AFFC72D478383005E144D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F61AFFC82D478383005E144D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -93,6 +95,7 @@
 				F61AFFF02D47B4EC005E144D /* TodoUpdateViewController.swift */,
 				F61AFFF62D47DE99005E144D /* TodoItemInProcessViewController.swift */,
 				F61AFFFA2D47DF84005E144D /* TodoItemForDoneViewController.swift */,
+				F61A00002D489021005E144D /* GroupManageViewController.swift */,
 			);
 			path = TodoList;
 			sourceTree = "<group>";
@@ -182,6 +185,7 @@
 				F61AFFED2D47B46E005E144D /* TodoListViewController.swift in Sources */,
 				F61AFFFB2D47DF84005E144D /* TodoItemForDoneViewController.swift in Sources */,
 				F61AFFD72D478383005E144D /* ViewController.swift in Sources */,
+				F61A00012D489021005E144D /* GroupManageViewController.swift in Sources */,
 				F61AFFF72D47DE99005E144D /* TodoItemInProcessViewController.swift in Sources */,
 				F61AFFE52D47B40B005E144D /* UserVerifyCodeViewController.swift in Sources */,
 			);
