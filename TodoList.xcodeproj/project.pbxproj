@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		F61A00012D489021005E144D /* GroupManageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F61A00002D489021005E144D /* GroupManageViewController.swift */; };
 		F61A00032D489044005E144D /* GroupTodoListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F61A00022D489044005E144D /* GroupTodoListViewController.swift */; };
+		F61A00052D489089005E144D /* FamilyManageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F61A00042D489089005E144D /* FamilyManageViewController.swift */; };
+		F61A00072D4890A8005E144D /* FamilyTodoListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F61A00062D4890A8005E144D /* FamilyTodoListViewController.swift */; };
 		F61AFFD12D478383005E144D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F61AFFC82D478383005E144D /* Assets.xcassets */; };
 		F61AFFD32D478383005E144D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F61AFFCB2D478383005E144D /* LaunchScreen.storyboard */; };
 		F61AFFD42D478383005E144D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F61AFFCD2D478383005E144D /* Main.storyboard */; };
@@ -30,6 +32,8 @@
 /* Begin PBXFileReference section */
 		F61A00002D489021005E144D /* GroupManageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupManageViewController.swift; sourceTree = "<group>"; };
 		F61A00022D489044005E144D /* GroupTodoListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupTodoListViewController.swift; sourceTree = "<group>"; };
+		F61A00042D489089005E144D /* FamilyManageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FamilyManageViewController.swift; sourceTree = "<group>"; };
+		F61A00062D4890A8005E144D /* FamilyTodoListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FamilyTodoListViewController.swift; sourceTree = "<group>"; };
 		F61AFF9F2D478154005E144D /* TodoList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TodoList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F61AFFC72D478383005E144D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F61AFFC82D478383005E144D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -99,6 +103,8 @@
 				F61AFFFA2D47DF84005E144D /* TodoItemForDoneViewController.swift */,
 				F61A00002D489021005E144D /* GroupManageViewController.swift */,
 				F61A00022D489044005E144D /* GroupTodoListViewController.swift */,
+				F61A00042D489089005E144D /* FamilyManageViewController.swift */,
+				F61A00062D4890A8005E144D /* FamilyTodoListViewController.swift */,
 			);
 			path = TodoList;
 			sourceTree = "<group>";
@@ -180,11 +186,13 @@
 				F61A00032D489044005E144D /* GroupTodoListViewController.swift in Sources */,
 				F61AFFF12D47B4EC005E144D /* TodoUpdateViewController.swift in Sources */,
 				F61AFFDD2D47AF18005E144D /* UserRegisterViewController.swift in Sources */,
+				F61A00052D489089005E144D /* FamilyManageViewController.swift in Sources */,
 				F61AFFE32D47B3BB005E144D /* UserInformationViewController.swift in Sources */,
 				F61AFFDF2D47AF2A005E144D /* UserSignInViewController.swift in Sources */,
 				F61AFFD52D478383005E144D /* AppDelegate.swift in Sources */,
 				F61AFFEF2D47B486005E144D /* TodoCreateViewController.swift in Sources */,
 				F61AFFE12D47AF36005E144D /* UserSignOutViewController.swift in Sources */,
+				F61A00072D4890A8005E144D /* FamilyTodoListViewController.swift in Sources */,
 				F61AFFD62D478383005E144D /* SceneDelegate.swift in Sources */,
 				F61AFFED2D47B46E005E144D /* TodoListViewController.swift in Sources */,
 				F61AFFFB2D47DF84005E144D /* TodoItemForDoneViewController.swift in Sources */,
