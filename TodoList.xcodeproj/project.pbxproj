@@ -14,6 +14,7 @@
 		F61A00132D49CAAF005E144D /* TodoKanbanViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F61A00122D49CAAF005E144D /* TodoKanbanViewController.swift */; };
 		F61A00152D49CADC005E144D /* TodoKanbanAdvancedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F61A00142D49CADC005E144D /* TodoKanbanAdvancedViewController.swift */; };
 		F61A000F2D48DF1B005E144D /* TodoCheckboxViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F61A000E2D48DF1B005E144D /* TodoCheckboxViewController.swift */; };
+		F61A00112D49CA25005E144D /* TodoCheckboxAdvancedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F61A00102D49CA25005E144D /* TodoCheckboxAdvancedViewController.swift */; };
 		F61AFFD12D478383005E144D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F61AFFC82D478383005E144D /* Assets.xcassets */; };
 		F61AFFD32D478383005E144D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F61AFFCB2D478383005E144D /* LaunchScreen.storyboard */; };
 		F61AFFD42D478383005E144D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F61AFFCD2D478383005E144D /* Main.storyboard */; };
@@ -40,6 +41,7 @@
 		F61A00122D49CAAF005E144D /* TodoKanbanViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoKanbanViewController.swift; sourceTree = "<group>"; };
 		F61A00142D49CADC005E144D /* TodoKanbanAdvancedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoKanbanAdvancedViewController.swift; sourceTree = "<group>"; };
 		F61A000E2D48DF1B005E144D /* TodoCheckboxViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoCheckboxViewController.swift; sourceTree = "<group>"; };
+		F61A00102D49CA25005E144D /* TodoCheckboxAdvancedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoCheckboxAdvancedViewController.swift; sourceTree = "<group>"; };
 		F61AFF9F2D478154005E144D /* TodoList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TodoList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F61AFFC72D478383005E144D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F61AFFC82D478383005E144D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -114,6 +116,7 @@
 				F61A00122D49CAAF005E144D /* TodoKanbanViewController.swift */,
 				F61A00142D49CADC005E144D /* TodoKanbanAdvancedViewController.swift */,
 				F61A000E2D48DF1B005E144D /* TodoCheckboxViewController.swift */,
+				F61A00102D49CA25005E144D /* TodoCheckboxAdvancedViewController.swift */,
 			);
 			path = TodoList;
 			sourceTree = "<group>";
@@ -201,6 +204,7 @@
 				F61A00132D49CAAF005E144D /* TodoKanbanViewController.swift in Sources */,
 				F61AFFDF2D47AF2A005E144D /* UserSignInViewController.swift in Sources */,
 				F61AFFD52D478383005E144D /* AppDelegate.swift in Sources */,
+				F61A00112D49CA25005E144D /* TodoCheckboxAdvancedViewController.swift in Sources */,
 				F61AFFEF2D47B486005E144D /* TodoCreateViewController.swift in Sources */,
 				F61AFFE12D47AF36005E144D /* UserSignOutViewController.swift in Sources */,
 				F61A00072D4890A8005E144D /* FamilyTodoListViewController.swift in Sources */,
